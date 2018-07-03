@@ -21,15 +21,15 @@
     </section>
 
     <div class="row mt-5 text-center">
-        <div class="col-md-6">
+        <div class="col-md-3 offset-md-2">
             <a href="/apparel.php">
-                <img src="../assets/images/top_tops.jpg" alt="">
+                <img class="mw-100" src="../assets/images/top-tops.jpg" alt="apparel-link" height="250px">
                 <div>apparel</div>
             </a>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-3 offset-md-2">
             <a href="/bag.php">
-                <img src="../assets/images/top_bag.jpg" alt="">
+                <img class="mw-100" src="../assets/images/top-bag.jpg" alt="bag-link" height="250px">
                 <div>bag</div>
             </a>
         </div>
