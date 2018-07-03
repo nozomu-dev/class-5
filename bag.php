@@ -16,20 +16,19 @@
         </p>
         <div class="row text-center mt-5">
             <div class="col-md-3">
-                <img src="../assets/images/top_bag.jpg" alt="">
+                <img class="mw-100" src="../assets/images/top_bag.jpg" alt="">
+            </div>
+            <div class="col-md-3">
+                <img class="mw-100" src="../assets/images/bag-xf-mousetrap.jpg" alt="">
                 <div>X-F MOUSETRAP</div>
             </div>
             <div class="col-md-3">
-                <img src="../assets/images/top_bag.jpg" alt="">
-                <div>X-F MOUSETRAP</div>
+                <img class="mw-100" src="../assets/images/bag-xf-flapruck.jpg" alt="">
+                <div>X-F FLAP RUCK</div>
             </div>
             <div class="col-md-3">
-                <img src="../assets/images/top_bag.jpg" alt="">
-                <div>X-F MOUSETRAP</div>
-            </div>
-            <div class="col-md-3">
-                <img src="../assets/images/top_bag.jpg" alt="">
-                <div>X-F MOUSETRAP</div>
+                <img class="mw-100" src="../assets/images/bag-xf-boxdaypack.jpg" alt="">
+                <div>X-F BOX DAYPACK</div>
             </div>
         </div>
     </section>
@@ -41,20 +40,20 @@
         </p>
         <div class="row text-center mt-5">
             <div class="col-md-3">
-                <img src="../assets/images/top_bag.jpg" alt="">
-                <div>X-F MOUSETRAP</div>
+                <img class="mw-100" src="../assets/images/bag-arc-daypack.jpg" alt="">
+                <div>ARC DAYPACK</div>
             </div>
             <div class="col-md-3">
-                <img src="../assets/images/top_bag.jpg" alt="">
-                <div>X-F MOUSETRAP</div>
+                <img class="mw-100" src="../assets/images/bag-arc-mousetrap.jpg" alt="">
+                <div>ARC MOUSETRAP</div>
             </div>
             <div class="col-md-3">
-                <img src="../assets/images/top_bag.jpg" alt="">
-                <div>X-F MOUSETRAP</div>
+                <img class="mw-100" src="../assets/images/bag-arc-boxdaypack.jpg" alt="">
+                <div>ARC BOX DAYPACK</div>
             </div>
             <div class="col-md-3">
-                <img src="../assets/images/top_bag.jpg" alt="">
-                <div>X-F MOUSETRAP</div>
+                <img class="mw-100" src="../assets/images/bag-arc-mussette.jpg" alt="">
+                <div>ARC MUSSETTE SHOULDER</div>
             </div>
         </div>
     </section>
