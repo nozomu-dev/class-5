@@ -6,46 +6,31 @@
 
     <div class="row text-center mt-5">
         <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-st-shaggy.jpg" alt="Shaggy Ox Bd Shirt">
-            <div>Shaggy Ox Bd Shirt</div>
+            <img class="mw-100" src="../assets/images/apparel-chanbray-anora.jpg" alt="Shaggy Ox Bd Shirt">
+            <div>Chanbray Anora</div>
         </div>
         <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-st-heavy.jpg" alt="Super Heavy Check Shirt">
-            <div>Super Heavy Check Shirt</div>
+            <img class="mw-100" src="../assets/images/apparel-forestory-parka.jpg" alt="Super Heavy Check Shirt">
+            <div>Forestory Parka</div>
         </div>
         <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-st-flannel.jpg" alt="Check Flannel Shirt">
-            <div>Check Flannel Shirt</div>
-        </div>
-    </div>
-
-    <div class="row text-center mt-5">
-        <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-jk-engineer.jpg" alt="Engineer Jacket">
-            <div>Engineer Jacket</div>
-        </div>
-        <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-jk-railroad.jpg" alt="Railroad Jacket">
-            <div>Railroad Jacket</div>
-        </div>
-        <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-jk-warden.jpg" alt="Warden Jacket">
-            <div>Warden Jacket</div>
+            <img class="mw-100" src="../assets/images/apparel-mountain-parka.jpg" alt="Check Flannel Shirt">
+            <div>Mountain Parka</div>
         </div>
     </div>
 
     <div class="row text-center mt-5">
         <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-pt-duck.jpg" alt="Duck Painter Pants2">
-            <div>Duck Painter Pants2</div>
+            <img class="mw-100" src="../assets/images/apparel-reversible-down-vest.jpg" alt="Engineer Jacket">
+            <div>Reversible Down Vest</div>
         </div>
         <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-pt-explorer.jpg" alt="Explorer Shorts">
-            <div>Explorer Shorts</div>
+            <img class="mw-100" src="../assets/images/apparel-reversible-northwest-vest.jpg" alt="Railroad Jacket">
+            <div>Reversible Northwest Vest</div>
         </div>
         <div class="col-md-4">
-            <img class="mw-100" src="../assets/images/apparel-pt-husky.jpg" alt="Husky Half Pants">
-            <div>Husky Half Pants</div>
+            <img class="mw-100" src="../assets/images/apparel-super-heavy-check-shirts.jpg" alt="Warden Jacket">
+            <div>Super Heavy Check Shirts</div>
         </div>
     </div>
 
