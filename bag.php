@@ -5,7 +5,7 @@
     <h2 class="bb serif text-center py-3">Item Collection</h2>
     <section class="mt-5 mx-5">
         <h3>●特徴</h3>
-        <p>2018SSモデルのXフレームラインとアーカイブラインは1980年代時モデルをアップデート。</p>
+        <p>2018SSモデルのXフレームラインとアーカイブラインは1980年代当時のモデルをアップデート。</p>
         <div class="row text-center mt-5">
             <div class="col-md-3">
                 <img class="mw-100" src="../assets/images/sample-backex.jpg" alt="backex" width="auto" height="200px">
@@ -24,10 +24,7 @@
     <section class="mt-5 mx-5">
         <h4>＜Xフレームライン＞</h4>
         <p>素材：1680Dポリエステル　カラー：BLACK/NAVY</p>
-        <p>
-            背景にX字型のアルミフレーム = Xフレームを採用。これは1980年代モデルにも使用されていました。
-            これにより強度と軽さを両立し、背景のメッシュ生地との間のエアチャンネルによりクッション性と快適性も実現しています。
-        </p>
+        <p>背面にX字形のアルミフレーム＝Xフレームを採用。これは1980年代モデルにも使用されていました。これにより強度と軽さを両立し、背面のメッシュ生地との間のエアチャネルによりクッション性と快適性も実現しています。</p>
         <div class="row text-center mt-5 align-items-center">
             <div class="col-md-3">
                 <img class="mw-100" src="../assets/images/bag-pickup.jpg" alt="pickup">
