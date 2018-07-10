@@ -1,6 +1,6 @@
 <?php include_once(dirname(__FILE__) . '/elements/head.php'); ?>
 
-<div class="container">
+<div class="container pb-5 bb">
     <div class="brand-header py-4 bb">
         <h1><a class="serif" href="/">class-5.inc</a></h1>
     </div>
