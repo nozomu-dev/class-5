@@ -69,7 +69,7 @@
         </div>
     </section>
     <div class="text-right mt-5 pb-3 color-dark bb">
-        キタムラトレードサービス <a href="tel:03-6214-0104">TEL 03-6214-0104</a>
+        （株）キタムラトレードサービス <a href="tel:03-6214-0104">TEL 03-6214-0104</a>
     </div>
 </div>
 
