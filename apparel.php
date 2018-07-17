@@ -7,11 +7,11 @@
     <div class="row text-center mt-5">
         <div class="col-md-4">
             <img class="mw-100" src="../assets/images/apparel-chanbray-anora.jpg" alt="Shaggy Ox Bd Shirt">
-            <div>Chanbray Anora</div>
+            <div>Chambray Anorak</div>
         </div>
         <div class="col-md-4">
             <img class="mw-100" src="../assets/images/apparel-forestory-parka.jpg" alt="Super Heavy Check Shirt">
-            <div>Forestory Parka</div>
+            <div>Forestry Parka</div>
         </div>
         <div class="col-md-4">
             <img class="mw-100" src="../assets/images/apparel-mountain-parka.jpg" alt="Check Flannel Shirt">
@@ -35,7 +35,7 @@
     </div>
 
     <div class="text-right mt-5 pb-3 color-dark bb">
-        シープ <a href="tel:03-3833-1641">TEL 03-3833-1641</a>
+        （有）シープ <a href="tel:03-3833-1641">TEL 03-3833-1641</a>
     </div>
 </div>
 
